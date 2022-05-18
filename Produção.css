@@ -1,0 +1,459 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 87px;
+}.u-section-2 .u-sheet-1 {
+  min-height: 613px;
+}
+
+.u-section-2 .u-slider-1 {
+  width: 758px;
+  min-height: 478px;
+  margin: 60px auto;
+}
+
+.u-section-2 .u-carousel-indicators-1 {
+  position: absolute;
+  bottom: 10px;
+  width: auto;
+  height: auto;
+}
+
+.u-section-2 .u-carousel-item-1 {
+  background-image: none;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 0 auto;
+}
+
+.u-section-2 .u-text-2 {
+  font-weight: 700;
+  width: 409px;
+  margin: 20px auto 0;
+}
+
+.u-section-2 .u-image-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("ed8e0c87f7397d0b895153f4cb9d395cd93d3c61.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px 50px;
+}
+
+.u-section-2 .u-text-3 {
+  margin: 148px 271px 0 auto;
+}
+
+.u-section-2 .u-text-4 {
+  font-weight: 700;
+  margin: 12px 111px 0 138px;
+}
+
+.u-section-2 .u-image-2 {
+  background-image: url("diy-bomba-de-sementes-dcc-3-hB5h-o.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 30px 50px;
+}
+
+.u-section-2 .u-container-layout-5 {
+  padding: 30px 50px;
+}
+
+.u-section-2 .u-text-5 {
+  margin: 0 auto;
+}
+
+.u-section-2 .u-text-6 {
+  font-weight: 700;
+  width: 409px;
+  margin: 12px auto 0;
+}
+
+.u-section-2 .u-image-3 {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 20px;
+  background-image: url("Adubo-organico-macrofitas-12.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-6 {
+  padding: 30px 50px;
+}
+
+.u-section-2 .u-container-layout-7 {
+  padding: 30px 50px;
+}
+
+.u-section-2 .u-text-7 {
+  margin: 114px auto 0;
+}
+
+.u-section-2 .u-text-8 {
+  font-weight: 700;
+  width: 409px;
+  margin: 20px auto 0;
+}
+
+.u-section-2 .u-image-4 {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 20px;
+  background-image: url("sementes-istock-918460358.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-8 {
+  padding: 30px 50px;
+}
+
+.u-section-2 .u-carousel-control-1 {
+  width: 46px;
+  height: 46px;
+  left: -58px;
+  position: absolute;
+  right: auto;
+  padding: 0;
+}
+
+.u-section-2 .u-carousel-control-2 {
+  width: 46px;
+  height: 46px;
+  left: auto;
+  position: absolute;
+  right: -58px;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-slider-1 {
+    height: auto;
+  }
+
+  .u-section-2 .u-carousel-item-1 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-right: 11px;
+    margin-left: 38px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 568px;
+  }
+
+  .u-section-2 .u-slider-1 {
+    width: 606px;
+    min-height: 440px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-right: 213px;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-container-layout-5 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-container-layout-6 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-container-layout-7 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-container-layout-8 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 530px;
+  }
+
+  .u-section-2 .u-slider-1 {
+    min-height: 410px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-left: 52px;
+    margin-right: 52px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-right: 168px;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-7 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-text-7 {
+    margin-left: 52px;
+    margin-right: 52px;
+  }
+
+  .u-section-2 .u-container-layout-8 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+    width: 320px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-right: 103px;
+  }
+
+  .u-section-2 .u-text-6 {
+    margin-left: 0;
+    margin-right: 0;
+    width: 320px;
+  }
+
+  .u-section-2 .u-text-7 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-8 {
+    margin-left: 0;
+    margin-right: 0;
+    width: 320px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 750px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  margin: 65px auto 65px 0;
+}
+
+.u-section-3 .u-image-1 {
+  min-height: 315px;
+  background-image: url("Plantando-mudinhas.jpg");
+  background-position: 50% 50%;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-3 .u-layout-cell-2 {
+  min-height: 315px;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 30px 24px;
+}
+
+.u-section-3 .u-text-1 {
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 36px 36px 0;
+}
+
+.u-section-3 .u-text-2 {
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 20px 36px 0;
+}
+
+.u-section-3 .u-layout-cell-3 {
+  min-height: 315px;
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 30px 60px;
+}
+
+.u-section-3 .u-text-3 {
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 38px 0 0;
+}
+
+.u-section-3 .u-text-4 {
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 20px 0 0;
+}
+
+.u-section-3 .u-image-2 {
+  min-height: 315px;
+  background-image: url("bomba_mo.jpg");
+  background-position: 100% 50%;
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-3 .u-container-layout-4 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1780px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
