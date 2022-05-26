@@ -36,7 +36,7 @@
 }
 
 .u-section-2 .u-image-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("ed8e0c87f7397d0b895153f4cb9d395cd93d3c61.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("images/ed8e0c87f7397d0b895153f4cb9d395cd93d3c61.jpg");
   background-position: 50% 50%;
 }
 
@@ -58,7 +58,7 @@
 }
 
 .u-section-2 .u-image-2 {
-  background-image: url("diy-bomba-de-sementes-dcc-3-hB5h-o.jpg");
+  background-image: url("images/diy-bomba-de-sementes-dcc-3-hB5h-o.jpg");
   background-position: 50% 50%;
 }
 
@@ -84,7 +84,7 @@
   margin-left: 0;
   margin-right: 0;
   margin-top: 20px;
-  background-image: url("Adubo-organico-macrofitas-12.jpg");
+  background-image: url("images/Adubo-organico-macrofitas-12.jpg");
   background-position: 50% 50%;
 }
 
@@ -110,7 +110,7 @@
   margin-left: 0;
   margin-right: 0;
   margin-top: 20px;
-  background-image: url("sementes-istock-918460358.jpg");
+  background-image: url("images/sementes-istock-918460358.jpg");
   background-position: 50% 50%;
 }
 
@@ -320,7 +320,7 @@
 
 .u-section-3 .u-image-1 {
   min-height: 315px;
-  background-image: url("Plantando-mudinhas.jpg");
+  background-image: url("images/Plantando-mudinhas.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: -200px;
   --animation-custom_in-translate_y: 0px;
@@ -387,7 +387,7 @@
 
 .u-section-3 .u-image-2 {
   min-height: 315px;
-  background-image: url("bomba_mo.jpg");
+  background-image: url("images/bomba_mo.jpg");
   background-position: 100% 50%;
   --animation-custom_in-translate_x: 300px;
   --animation-custom_in-translate_y: 0px;
